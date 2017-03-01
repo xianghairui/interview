@@ -12,5 +12,10 @@
     <scm>
         <developerConnection>https://github.com/54uso/interview.git</developerConnection>
     </scm>
+    
+    <modules>
+    	<module>xianghairui</module>
+    </modules>
+    
 
 </project>
